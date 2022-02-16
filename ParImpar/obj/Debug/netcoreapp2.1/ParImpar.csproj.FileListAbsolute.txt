@@ -1,0 +1,13 @@
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\bin\Debug\netcoreapp2.1\ParImpar.deps.json
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\bin\Debug\netcoreapp2.1\ParImpar.runtimeconfig.json
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\bin\Debug\netcoreapp2.1\ParImpar.runtimeconfig.dev.json
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\bin\Debug\netcoreapp2.1\ParImpar.dll
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\bin\Debug\netcoreapp2.1\ParImpar.pdb
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.AssemblyInfo.cs
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.dll
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.pdb
+C:\Users\Pablo\Documents\C#\Treinos\ParImpar\ParImpar\obj\Debug\netcoreapp2.1\ParImpar.genruntimeconfig.cache
